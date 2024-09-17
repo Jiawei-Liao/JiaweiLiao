@@ -199,11 +199,12 @@ function App() {
     
     // List of projects
     const projects = [
-        {name: 'Interview Helper', description: 'Simulates an online interview environment, transcribing answers to generate actionable feedback for improvement.', image: 'images/InterviewHelper.png', link: 'https://github.com/Jiawei-Liao/InterviewHelper'}, 
+        {name: 'Interview Helper', description: 'Simulates an online interview environment, transcribing answers to generate actionable feedback for improvement.', image: 'images/InterviewHelper.png', link: 'https://interview-helper-alpha.vercel.app/'}, 
         {name: 'Polymation', description: 'Polymation automates character skeleton and animation rigging using machine learning.', image: 'images/Polymation.png', link: 'https://github.com/Monash-FIT3170/Team7_AI_Modelling'}, 
         {name: 'MyJourney', description: 'MyJourney helps record your everyday journeys with images, location, weather, and more for easy diary keeping.', image: 'images/MyJourney.png', link: 'https://github.com/Jiawei-Liao/MyJourney'}, 
         {name: 'Klee\'s Bizarre Adventure', description: 'My first unity rogue-like game. Shoot slimes and upgrade yourself.', image: 'images/KleesBizarreAdventure.png', link: 'https://github.com/Jiawei-Liao/Klees-Bizarre-Adventure'},
         //{name: 'Betting Arbitrage Calculator', description: 'Find betting arbitrage trades.', image: 'image 4', link: 'https://github.com/Jiawei-Liao/Arbitrage'}, Haven't got a good image for this one
+        {name: 'ChemQuest', description: 'ChemQuest is a story board game that helps students learn chemistry by using chemical reactions to complete the narrative.', image: 'images/ChemQuest.png', link: 'https://github.com/Jiawei-Liao/ChemQuest'},
         {name: 'Dehya Clicker', description: 'Let Dehya try to beat up a hydro slime.', image: 'images/DehyaClicker.png', link: 'https://jiawei-liao.github.io/Dehya-Clicker/'},
         {name: 'PZ Book Checklist', description: 'Keep track of the skill books you collect in Project Zomboid.', image: 'images/PZBookChecklist.png', link: 'https://jiawei-liao.github.io/PZ-Skill-Book-Checklist/'},
     ];
